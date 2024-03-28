@@ -4,3 +4,6 @@
 # @Email    : 867075698@qq.com
 # @File     : test.py
 # @Software : PyCharm
+
+
+print(1+1)
